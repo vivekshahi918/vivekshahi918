@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="_blank">
-  <i class="fa-brands fa-linkedin"></i>
 </a>
 
 
@@ -41,4 +40,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" /></p>
-<script src="https://kit.fontawesome.com/10a6090481.js" crossorigin="anonymous"></script>
