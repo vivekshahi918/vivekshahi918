@@ -30,13 +30,13 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/CodeChef_logo.png" alt="CodeChef" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/16/CodeChef_logo.png" alt="CodeChef" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/HackerRank_logo.png" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/HackerRank_logo.png" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LeetCode_logo.png" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/LeetCode_logo.png" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
 
