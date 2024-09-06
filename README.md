@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,aws,gcp,azure,react,java,kotlin,nodejs,figma,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,aws,gcp,azure,react,java,kotlin,nodejs,figma,js,html,css" />
   </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" /></p>
