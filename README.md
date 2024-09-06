@@ -49,9 +49,9 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" />
 </p>
-<p align="right">
- <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=unicorn" alt="LeetCode Unicorn Theme" />
+<p align="center">
+ <img src="https://leetcard.jacoblin.cool/vivekshahi1803?ext=activity" alt="LeetCode Unicorn Theme" />
 </p>
 
