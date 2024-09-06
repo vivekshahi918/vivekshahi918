@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
-- 👨‍💻 All of my projects are available at [https://vivekshahi918.github.io/Portfolio/](https://vivekshahi918.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Github Link](https://github.com/vivekshahi918)
 
 - 💬 Ask me about **REACT and JAVA.**
 
