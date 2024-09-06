@@ -41,3 +41,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" /></p>
+<script src="https://kit.fontawesome.com/10a6090481.js" crossorigin="anonymous"></script>
