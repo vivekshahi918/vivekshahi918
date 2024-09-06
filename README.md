@@ -50,6 +50,6 @@
 ## Stats Overview
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="GitHub Streak" />
   <img align="right" src="https://leetcard.jacoblin.cool/vivekshahi1803?ext=activity" alt="LeetCode Activity" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="GitHub Streak" />
 </p>
