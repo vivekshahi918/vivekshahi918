@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![LinkedIn](https://simpleicons.org/icons/linkedin.svg)](https://linkedin.com/in/vivek-shahi-1803v918)
+  <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/vivek_._shahi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
