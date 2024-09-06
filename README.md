@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,expressjs,nextjs,tailwindcss,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode,laravel&perline=7" style="padding: 10px;" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,expressjs,nextjs,tailwindcss,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode,laravel&perline=7"  />
   </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" /></p>
