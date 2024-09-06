@@ -18,26 +18,27 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pVpnhWZTdEFbkJlikrQOLnaDTXf5BTE7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny!!**
+  
+- 👨‍💻 About Myself [Portfolio](https://github.com/vivekshahi918)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@1.0.6/outline/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/vivek_._shahi" target="blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@1.0.6/outline/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/codepen.svg" alt="CodeChef" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@1.0.6/outline/codechef.svg" alt="CodeChef" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@1.0.6/outline/hackerrank.svg" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/leetcode.svg" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/heroicons@1.0.6/outline/leetcode.svg" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
