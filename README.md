@@ -50,9 +50,6 @@
 ## Stats Overview
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&count_private=true&hide=contribs" alt="GitHub Contributions" />
-  
-  <!-- Live Streak and Maximum Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=highcontrast" alt="GitHub Streak with Max Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" />
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light,unicorn" alt="LeetCode Light & Unicorn Theme" />
 </p>
