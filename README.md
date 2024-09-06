@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vivekshahi918.github.io/Portfolio/](https://vivekshahi918.github.io/Portfolio/)
 
-- 💬 Ask me about **REACT, MONGODB and programming question.**
+- 💬 Ask me about **REACT and JAVA.**
 
 - 📫 How to reach me **shahivivek503@gmail.com**
 
