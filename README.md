@@ -32,36 +32,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=cpp" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=python" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=java" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=html" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=css" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=js" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=react" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=expressjs" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=tailwindcss" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=php" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=mysql" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=aws" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=gcp" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=azure" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=docker" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=firebase" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=git" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=postman" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=linux" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=matlab" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=figma" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=vscode" style="margin: 10px;" />
-    <img src="https://skillicons.dev/icons?i=laravel" style="margin: 10px;" />
-  </a>
+<a href="https://skillicons.dev" style="padding:5px">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,expressjs,nextjs,tailwindcss,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode,laravel&perline=7" />
+</a>
 </p>
 
 
