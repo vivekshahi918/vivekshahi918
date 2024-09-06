@@ -49,8 +49,11 @@
 
 ## Stats Overview
 
-  <div align="center">
-  <!-- GitHub Streak Stats -->
+  <div >
+    <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=dark" alt="GitHub Streak" />
+    </div>
+    <div align="right">
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light,unicorn" alt="LeetCode Light & Unicorn Theme" />
+    </div>
   </div>
