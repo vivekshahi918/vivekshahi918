@@ -51,5 +51,5 @@
 
 <p>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="GitHub Streak" />
-  <img  src="https://leetcard.jacoblin.cool/vivekshahi1803?ext=activity" alt="LeetCode Activity" />
+  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light,unicorn" alt="LeetCode Light & Unicorn Theme" />
 </p>
