@@ -22,19 +22,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank">
-    <img align="center" src="https://api.iconify.design/logos:linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/vivek_._shahi" target="blank">
-    <img align="center" src="https://api.iconify.design/logos:instagram.svg" alt="Instagram" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
-    <img align="center" src="https://api.iconify.design/logos:codechef.svg" alt="CodeChef" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/30/codechef.png" alt="CodeChef" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
-    <img align="center" src="https://api.iconify.design/logos:hackerrank.svg" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/30/hackerrank.png" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
-    <img align="center" src="https://api.iconify.design/logos:leetcode.svg" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/color/30/leetcode.png" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
 
