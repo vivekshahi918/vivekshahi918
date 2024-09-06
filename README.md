@@ -28,11 +28,11 @@
   </a>
   <a href="https://instagram.com/vivek_._shahi" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" />
-  <a href="https://www.codechef.com/users/shahivivek503" target="blank">
+ <a href="https://www.codechef.com/users/shahivivek503" target="blank">
     <img align="center" src="https://www.codechef.com/images/codechef_logo.png" alt="CodeChef" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
-    <img align="center" src="https://www.hackerrank.com/assets/img/hackerrank_logo.png" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HackerRank_logo.png/256px-HackerRank_logo.png" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
     <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" height="30" width="30" />
