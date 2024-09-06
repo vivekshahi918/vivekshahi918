@@ -47,11 +47,9 @@
 </a>
 </p>
 
+## Stats Overview
+
 <p>
-  <p align="left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" />
-  </p>
-  <p align="right">
-   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?ext=activity" alt="LeetCode Unicorn Theme" />
-  </p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="GitHub Streak" />
+  <img align="right" src="https://leetcard.jacoblin.cool/vivekshahi1803?ext=activity" alt="LeetCode Activity" />
 </p>
