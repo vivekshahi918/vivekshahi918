@@ -52,17 +52,6 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&" alt="vivekshahi918" />
 </p>
 <p align="right">
-  <img align="center" src="https://leet-stats.vercel.app?username=vivekshahi1803" alt="LeetCode Streak" />
-</p>
-<p align="right">
-  <a href="https://leetcode.com/vivekshahi1803/">
-    <img src="https://img.shields.io/badge/LeetCode%20Easy%20Questions%20Solved-100%20%F0%9F%98%80-brightgreen" alt="LeetCode Easy Questions Solved" />
-  </a>
-  <a href="https://leetcode.com/vivekshahi1803/">
-    <img src="https://img.shields.io/badge/LeetCode%20Medium%20Questions%20Solved-50%20%F0%9F%98%80-yellow" alt="LeetCode Medium Questions Solved" />
-  </a>
-  <a href="https://leetcode.com/vivekshahi1803/">
-    <img src="https://img.shields.io/badge/LeetCode%20Hard%20Questions%20Solved-20%20%F0%9F%98%80-red" alt="LeetCode Hard Questions Solved" />
-  </a>
+ <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=unicorn" alt="LeetCode Unicorn Theme" />
 </p>
 
