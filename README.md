@@ -22,19 +22,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/303743/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/vivek_._shahi" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/122087/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/303711/codechef.svg" alt="CodeChef" height="30" width="30" />
+    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/codepen.svg" alt="CodeChef" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/331072/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/hackerrank.svg" alt="HackerRank" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/331077/leetcode.svg" alt="LeetCode" height="30" width="30" />
+    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/leetcode.svg" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
 
