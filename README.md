@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" /> </p>
 
-- 🔭 I’m currently working on **Treva Trend**
+- 🔭 I’m currently working on **AWS**
 
 - 🌱 I’m currently learning **AWS, DevOps and LINUX**
 
