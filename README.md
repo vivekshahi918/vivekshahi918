@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am funny!!**
   
-- 👨‍💻 About Myself [Portfolio](https://vivekshahi918.github.io/Portfolio/)
+- 👨‍💻 About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
