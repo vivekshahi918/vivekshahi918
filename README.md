@@ -26,9 +26,6 @@
   <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://instagram.com/vivek_._shahi" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg" alt="Instagram" height="30" />
-  </a>
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
     <img align="center" src="https://img.shields.io/badge/CodeChef-%23B73C3C.svg" alt="CodeChef" height="30" />
   </a>
