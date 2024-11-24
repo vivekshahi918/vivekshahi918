@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shahivivek503@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pVpnhWZTdEFbkJlikrQOLnaDTXf5BTE7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JNuTDr1-pvC5C0jvfVZAubSo3xwPnlid/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny!!**
   
