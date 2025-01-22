@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" /> </p>
 
-- 🔭 I’m currently working on **C#(Sharp)**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **AWS, DevOps and LINUX**
+- 🌱 I’m currently learning **AWS and LINUX**
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
