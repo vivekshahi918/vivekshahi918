@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **AWS and LINUX**
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+- 👯 I’m looking to collaborate on **MERN Stack and DevOps Project**
 
 - 👨‍💻 All of my projects are available at [Github Link](https://github.com/vivekshahi918)
 
-- 💬 Ask me about **REACT and JAVA.**
+- 💬 Ask me about **DevOps and JAVA.**
 
 - 📫 How to reach me **shahivivek503@gmail.com**
 
