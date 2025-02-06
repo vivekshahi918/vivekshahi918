@@ -29,9 +29,9 @@
   <a href="https://www.codechef.com/users/shahivivek503" target="blank">
     <img align="center" src="https://img.shields.io/badge/CodeChef-%23B73C3C.svg" alt="CodeChef" height="30" />
   </a>
-  <a href="https://www.hackerrank.com/shahivivek503" target="blank">
+<!--   <a href="https://www.hackerrank.com/shahivivek503" target="blank">
     <img align="center" src="https://img.shields.io/badge/HackerRank-%233C6D5C.svg" alt="HackerRank" height="30" />
-  </a>
+  </a> -->
   <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-%23F6C543.svg" alt="LeetCode" height="30" />
   </a>
