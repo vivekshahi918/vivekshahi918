@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Shahi</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS and LINUX**
 
-- 👯 I’m looking to collaborate on **MERN Stack and DevOps Project**
+- 👯 I’m looking to collaborate on **Full Stack and DevOps Project**
 
 - 👨‍💻 All of my projects are available at [Github Link](https://github.com/vivekshahi918)
 
