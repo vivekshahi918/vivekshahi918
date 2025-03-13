@@ -13,11 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake SVG
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vivekshahi918
-          outputs: dist
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: List files after generation
         run: ls -R
