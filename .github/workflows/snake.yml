@@ -13,19 +13,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@v2
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vivekshahi918
+          outputs: dist
 
       - name: List files after generation
-        run: ls -R ${{ github.workspace }}
+        run: ls -R
 
       - name: Push the snake.svg to the output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B output
-          git add snake.svg
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Generate contribution graph - automated" || echo "No changes to commit"
           git push origin output --force
