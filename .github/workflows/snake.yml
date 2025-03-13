@@ -17,7 +17,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: vivekshahi918
-          svg_out_path: snake.svg
 
       - name: List files after generation
         run: ls -R ${{ github.workspace }}
