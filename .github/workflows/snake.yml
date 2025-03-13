@@ -1,28 +1,28 @@
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@master
         with:
           github_user_name: vivekshahi918
-          outputs: github-contribution-grid-snake.svg
 
       - name: Push the snake.svg to the output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
+          git checkout -B output
           git add github-contribution-grid-snake.svg
-          git commit -m "Generate contribution snake"
+          git commit -m "Generate contribution graph - automated" || echo "No changes to commit"
           git push origin output --force
