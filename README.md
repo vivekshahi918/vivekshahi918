@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="DevOps Workflow" width="100%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1r6E/giphy.gif" alt="DevOps Workflow" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
@@ -16,12 +16,12 @@
 🔥 I’m currently working on **DevOps**  
 🌱 I’m currently learning **AWS and LINUX**  
 👯 I’m looking to collaborate on **Full Stack and DevOps Projects**  
-👨‍� All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
+👨‍💻 All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
 💬 Ask me about **DevOps and JAVA**  
 📧 How to reach me **shahivivek503@gmail.com**  
 🗄 Know about my experiences [Resume](https://drive.google.com/file/d/1JNuTDr1-pvC5C0jvfVZAubSo3xwPnlid/view?usp=sharing)  
 ⚡ Fun fact **I think I am funny!!**  
-👨‍� About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
+👨‍💻 About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
 
 ---
 
@@ -62,5 +62,5 @@
 
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github.com/vivekshahi918/vivekshahi918/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/output/github-contribution-grid-snake.svg" />
 </p>
