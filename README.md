@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Vivek Shahi Banner" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="DevOps Workflow" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
@@ -13,15 +13,15 @@
 
 ---
 
-🔭 I’m currently working on **DevOps**  
+🔥 I’m currently working on **DevOps**  
 🌱 I’m currently learning **AWS and LINUX**  
 👯 I’m looking to collaborate on **Full Stack and DevOps Projects**  
-👨‍💻 All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
+👨‍� All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
 💬 Ask me about **DevOps and JAVA**  
-📫 How to reach me **shahivivek503@gmail.com**  
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JNuTDr1-pvC5C0jvfVZAubSo3xwPnlid/view?usp=sharing)  
+📧 How to reach me **shahivivek503@gmail.com**  
+🗄 Know about my experiences [Resume](https://drive.google.com/file/d/1JNuTDr1-pvC5C0jvfVZAubSo3xwPnlid/view?usp=sharing)  
 ⚡ Fun fact **I think I am funny!!**  
-👨‍💻 About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
+👨‍� About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
 
 ---
 
