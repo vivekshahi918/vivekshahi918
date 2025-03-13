@@ -9,11 +9,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: vivekshahi918
           outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist
+
+      - name: Push the snake.svg to the output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          mv dist/snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generate contribution snake"
+          git push origin output --force
