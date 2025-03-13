@@ -18,6 +18,9 @@ jobs:
         with:
           github_user_name: vivekshahi918
 
+      - name: List files for debugging
+        run: ls -R
+
       - name: Push the snake.svg to the output branch
         run: |
           git config user.name "github-actions[bot]"
