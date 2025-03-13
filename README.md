@@ -62,5 +62,5 @@
 
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/output/github-contribution-grid-snake.svg" />
 </p>
