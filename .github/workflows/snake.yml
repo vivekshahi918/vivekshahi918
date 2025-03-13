@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: vivekshahi918
           outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
