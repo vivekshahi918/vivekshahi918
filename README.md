@@ -4,12 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer & DevOps Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73A3A&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" /> </p>
 
