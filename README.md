@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1r6E/giphy.gif" alt="DevOps Workflow" width="100%" height="300" />
+  <img src="https://pixabay.com/videos/coding-programming-163491/" alt="DevOps Workflow" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
