@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://pixabay.com/videos/coding-programming-163491/" target="_blank">
-    <img src="https://via.placeholder.com/800x400?text=Click+to+Watch+Video" alt="DevOps Workflow" width="80%" />
-  </a>
+  <img src="video/animated-image.gif" alt="DevOps Workflow" width="80%" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
