@@ -1,17 +1,16 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1a7NvwTwN5HHY3sLw9pIdjSXsO1EfjAS3/view?usp=sharing" alt="DevOps Workflow" width="80%" />
-</p>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Vivek Shahi
+</h1>
 
-<h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
 <h3 align="center">🚀 Passionate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73A3A&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" />
+</p>
 
 ---
 
@@ -58,4 +57,46 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="150" />
 </p>
 
+---
 
+<h2 align="center">🔥 GitHub Streak Stats</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">🚀 3D Contribution Graph</h2>
+<p align="center">
+  <a href="https://github.com/vivekshahi918">
+    <img src="https://github.com/vivekshahi918/vivekshahi918/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">💡 Dynamic Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+<h2 align="center">🎮 Fun "Dev Card"</h2>
+<p align="center">
+  <img src="https://github.com/vivekshahi918/vivekshahi918/blob/main/devcard.png" width="300px" />
+</p>
+
+---
+
+<h2 align="center">🔥 ASCII Art</h2>
+<p align="center">
+<pre>
+██████╗ ██╗   ██╗██╗██╗  ██╗     ███████╗██╗  ██╗ █████╗ ██╗
+██╔══██╗██║   ██║██║██║ ██╔╝     ██╔════╝██║  ██║██╔══██╗██║
+██████╔╝██║   ██║██║█████╔╝█████╗███████╗███████║███████║██║
+██╔═══╝ ██║   ██║██║██╔═██╗╚════╝╚════██║██╔══██║██╔══██║██║
+██║     ╚██████╔╝██║██║  ██╗     ███████║██║  ██║██║  ██║███████╗
+╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
+</p>
