@@ -67,10 +67,8 @@
 ---
 
 <h2 align="center">🚀 3D Contribution Graph</h2>
-<p align="center">
-  <a href="https://github.com/vivekshahi918">
-    <img src="https://github.com/vivekshahi918/vivekshahi918/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
-  </a>
+  <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vivekshahi918&theme=redical" />
 </p>
 
 ---
