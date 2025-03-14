@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="video/animated-image.gif" alt="DevOps Workflow" width="80%" />
+  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/main/video/animated-image.gif" alt="DevOps Workflow" width="80%" />
 </p>
 
 
