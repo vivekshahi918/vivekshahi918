@@ -56,13 +56,6 @@
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light,unicorn" height="150" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="150" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=vivekshahi918&theme=highcontrast" height="150" />
 </p>
 
----
 
-<h3 align="center">🐍 Contribution Graph</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/output/github-contribution-grid-snake.svg" />
-</p>
