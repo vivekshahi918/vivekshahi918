@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://pixabay.com/videos/coding-programming-163491/" alt="DevOps Workflow" width="100%" height="300" />
+  <a href="https://pixabay.com/videos/coding-programming-163491/" target="_blank">
+    <img src="https://via.placeholder.com/800x400?text=Click+to+Watch+Video" alt="DevOps Workflow" width="80%" />
+  </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
 <h3 align="center">🚀 Passionate Full Stack Developer & DevOps Enthusiast</h3>
