@@ -87,10 +87,14 @@
 
 ---
 
-<h2 align="center">🚀 MY MANTRA 🚀</h2>
+<h2 align="center" style="color: #ffffff; text-shadow: 0 0 10px #FF5733, 0 0 20px #FFC300, 0 0 30px #DAF7A6; animation: glow-title 2s infinite alternate;">
+    🚀 MY MANTRA 🚀
+</h2>
 
 <p align="center">
-<pre>  
+<pre style="font-size: 12px; font-weight: bold; white-space: pre; color: #ffffff;
+    text-shadow: 0 0 10px #0078FF, 0 0 20px #00FFFF, 0 0 30px #FF00FF;
+    animation: glow-text 2s infinite alternate;">  
 ················································
 :                                              :
 :     ____  ___   ____   _____                 :
@@ -118,5 +122,20 @@
                                                                                      ················································
 </pre>
 </p>
+
+<style>
+    @keyframes glow-title {
+        0% { text-shadow: 0 0 10px #FF5733, 0 0 20px #FFC300, 0 0 30px #DAF7A6; }
+        50% { text-shadow: 0 0 15px #FF0000, 0 0 25px #FFFF00, 0 0 35px #00FF00; }
+        100% { text-shadow: 0 0 10px #FF5733, 0 0 20px #FFC300, 0 0 30px #DAF7A6; }
+    }
+
+    @keyframes glow-text {
+        0% { text-shadow: 0 0 10px #0078FF, 0 0 20px #00FFFF, 0 0 30px #FF00FF; }
+        50% { text-shadow: 0 0 15px #FF0000, 0 0 25px #FFFF00, 0 0 35px #00FF00; }
+        100% { text-shadow: 0 0 10px #0078FF, 0 0 20px #00FFFF, 0 0 30px #FF00FF; }
+    }
+</style>
+
 
 
