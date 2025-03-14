@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/main/video/animated-image.gif" alt="DevOps Workflow" width="80%" />
+  <img src="https://drive.google.com/file/d/1a7NvwTwN5HHY3sLw9pIdjSXsO1EfjAS3/view?usp=sharing" alt="DevOps Workflow" width="80%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm <span style="color: #fca311;">Vivek Shahi</span></h1>
+<h3 align="center">🚀 Passionate</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73A3A&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 
 
