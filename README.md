@@ -52,7 +52,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,nextjs,tailwind,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode,vagrant,oracle,virtualbox&perline=7" />  
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,nextjs,tailwind,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode&perline=6" />  
   </a>
 </p>
 
