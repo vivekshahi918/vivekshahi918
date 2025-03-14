@@ -1,3 +1,11 @@
+
+<h2 align="center">💡Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Vivek Shahi
 </h1>
@@ -62,27 +70,6 @@
 <h2 align="center">🔥 GitHub Streak Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" />
-</p>
-
----
-
-<h2 align="center">🚀 3D Contribution Graph</h2>
-  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vivekshahi918&theme=redical" />
-</p>
-
----
-
-<h2 align="center">💡 Dynamic Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<h2 align="center">🎮 Fun "Dev Card"</h2>
-<p align="center">
-  <img src="https://github.com/vivekshahi918/vivekshahi918/blob/main/devcard.png" width="300px" />
 </p>
 
 ---
