@@ -67,12 +67,11 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" />
-</p>
+<!-- <h2 align="center">🔥 GitHub Streak Stats</h2> -->
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> -->
+<!-- </p> -->
 
----
 
 <h2 align="center">
     🚀 MY MANTRA 🚀
