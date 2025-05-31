@@ -28,7 +28,7 @@
 👨‍💻 All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
 💬 Ask me about **DevOps and JAVA**  
 📧 How to reach me **shahivivek503@gmail.com**  
-🗄 Know about my experiences [Resume](https://drive.google.com/file/d/1JNuTDr1-pvC5C0jvfVZAubSo3xwPnlid/view?usp=sharing)  
+🗄 Know about my experiences [Resume](https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing)  
 ⚡ Fun fact **I think I am funny!!**  
 👨‍💻 About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
 
