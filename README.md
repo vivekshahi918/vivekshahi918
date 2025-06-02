@@ -23,7 +23,7 @@
 ---
 
 🔥 I’m currently working on **DevOps**  
-🌱 I’m currently learning **AWS and LINUX**  
+🌱 I’m currently learning **AWS**  
 👯 I’m looking to collaborate on **Full Stack and DevOps Projects**  
 👨‍💻 All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
 💬 Ask me about **DevOps and JAVA**  
