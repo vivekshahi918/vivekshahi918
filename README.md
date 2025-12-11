@@ -54,7 +54,7 @@
 
 ---
 
-### 🛡️ **S.H.I.E.L.D — Secure Email Intelligence Platform**  
+### 🛡️ [S.H.I.E.L.D — Secure Email Intelligence Platform](https://github.com/vivekshahi918/S.H.I.E.L.D.)  
 A full-stack, security-focused email archiving & intelligence system that blends automation, cryptography, and GenAI. Built for reliability, long-term retention, and high-speed search capabilities.
 
 **Highlights:**  
@@ -66,7 +66,7 @@ A full-stack, security-focused email archiving & intelligence system that blends
 
 ---
 
-### 🛒 **Treva Trends — Modern Online Storefront with Admin Controls**  
+### 🛒 [Treva Trends — Modern Online Storefront](https://github.com/vivekshahi918/treva-trends-nextjs) 
 A production-grade e-commerce platform designed with a strong emphasis on admin workflows, reliability, and seamless user experience.
 
 **Highlights:**  
@@ -78,7 +78,7 @@ A production-grade e-commerce platform designed with a strong emphasis on admin 
 
 ---
 
-### 💬 **Chatify App — Real-Time Communication on the Cloud**  
+### 💬 [Chatify App — Real-Time Cloud Chat](https://github.com/vivekshahi918/Chatify-App)  
 A lightweight but scalable chat application powered by cloud infrastructure and automated delivery pipelines.
 
 **Highlights:**  
