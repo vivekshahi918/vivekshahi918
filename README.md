@@ -129,8 +129,8 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 <h2 align="center">📊 GitHub Stats & LeetCode</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
-  &nbsp;&nbsp;
+  <!-- <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
+  &nbsp;&nbsp; -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
 
