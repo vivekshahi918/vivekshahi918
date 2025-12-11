@@ -30,7 +30,7 @@
 - Constantly exploring **system design, distributed systems, and event-driven architectures**  
 - 📧 Email → **shahivivek503@gmail.com**  
 - 🌐 Portfolio → https://vivek-portfolio-2022.vercel.app/  
-- 📄 Resume → *Available on request*  
+- 📄 Resume → https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing  
 - ☁️ Fun fact: I can deploy faster than I can cook Maggie 😄  
 
 ---
@@ -131,21 +131,21 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
 
 ---
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=vivekshahi918&theme=radical" />
 </p>
 
 ---
 
 <h2 align="center">🌈 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
 </p>
 
 ---
