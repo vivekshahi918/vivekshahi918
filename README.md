@@ -15,7 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73A3A&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Distributed+Systems+%7C+Microservices;DSA+Competitive+Coder+%7C+LeetCode+Knight;I+Build+Scalable+%26+Production-Ready+Systems" />
 </p>
 
-<!-- 🔗 CONNECT WITH ME BADGES -->
 <p align="center">
   <a href="mailto:shahivivek503@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -148,13 +147,6 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekshahi918&theme=radical" />
-</p>
-
----
-
-<h2 align="center">🌈 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
 </p>
 
 ---
