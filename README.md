@@ -1,5 +1,4 @@
-
-<h2 align="center">💡Quote</h2>
+<h2 align="center">💡 Quote of the Day</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
@@ -7,71 +6,146 @@
 ---
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Vivek Shahi
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm <strong>Vivek Shahi</strong>
 </h1>
 
-<h3 align="center">🚀 Passionate</h3>
+<h3 align="center">🚀 Software Developer | DevOps Engineer | Cloud Advocate | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F73A3A&center=true&width=435&lines=Full+Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73A3A&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Java++Node.js++React+Developer;LeetCode+Contest+Coder;System+Design+Learner;Always+Building+%7C+Always+Learning" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20views&color=0e75b6&style=flat" alt="vivekshahi918" />
-</p>
-
----
-
-🔥 I’m currently working on **DevOps**  
-🌱 I’m currently learning **AWS**  
-👯 I’m looking to collaborate on **Full Stack and DevOps Projects**  
-👨‍💻 All of my projects are available at [GitHub Link](https://github.com/vivekshahi918)  
-💬 Ask me about **DevOps and JAVA**  
-📧 How to reach me **shahivivek503@gmail.com**  
-🗄 Know about my experiences [Resume](https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing)  
-⚡ Fun fact **I think I am funny!!**  
-👨‍💻 About Myself [Portfolio](https://vivek-portfolio-2022.vercel.app/)  
-
----
-
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vivek-shahi-1803v918" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codechef.com/users/shahivivek503" target="blank">
-    <img align="center" src="https://img.shields.io/badge/CodeChef-%23B73C3C.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.leetcode.com/vivekshahi1803" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23F6C543.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,nextjs,tailwind,php,mysql,mongodb,aws,gcp,azure,kubernetes,docker,firebase,git,postman,linux,matlab,figma,vscode&perline=6" />  
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
+
+---
+
+## 🔥 About Me  
+- 💻 Strong in **Backend Engineering, DevOps, and System Design**  
+- 🚀 Passionate about building **scalable, cloud-native and production-ready** applications  
+- 🧠 Solved **hundreds of DSA problems** → Active LeetCode coder  
+- 📦 Experienced with **CI/CD, Docker, Kubernetes, Terraform, ArgoCD, Jenkins**  
+- ☁️ Cloud Services: **AWS | GCP | Azure**  
+- 🎯 I love writing clean, readable code and automating deployments  
+- 📧 Email → **shahivivek503@gmail.com**  
+- 🗄 Resume → [Click Here](https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing)  
+- 🌍 Portfolio → https://vivek-portfolio-2022.vercel.app/  
+- ⚡ Fun Fact: I debug faster when music is playing 🎧  
+
+---
+
+## 🏆 Professional Achievements
+
+🔥 **AWS Certified**  
+⚙️ Created **5+ automated DevOps pipelines** improving deployment stability  
+🚀 Built & deployed **Kubernetes clusters** with Ingress, Secrets & Autoscaling  
+📡 Integrated **OAuth, Gmail API, PostgreSQL, Cron Jobs, Cloud Runner**  
+💬 Solved **600+ coding problems** (updates automatically via LeetCard)  
+🛒 Built production-level **eCommerce system with Stripe payments**  
+🗣 Hosted multiple **presentations & tech demos** on DevOps + Cloud  
+
+---
+
+## 🧰 Tech Stack (Skill Matrix)
+
+### 💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,php&theme=light" />
+</p>
+
+### 🧱 Backend & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nextjs&theme=light" />
+</p>
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap&theme=light" />
+</p>
+
+### 🛢 Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=light" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,gitlab&theme=light" />
+</p>
+
+### 🧪 Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode,figma&theme=light" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **ChatifyXOps — Real-Time Chat + DevOps**
+- WebSocket chat app  
+- CI/CD with GitHub Actions  
+- Dockerized + K8s deployment + ArgoCD  
+- Monitoring with Prometheus + Grafana  
+
+### 🔹 **Email Archiving System — OAuth + Gmail API + Cloud**
+- OAuth login  
+- Auto-fetch emails using cron  
+- Email metadata & attachments to Drive  
+- PostgreSQL + GCP deployment  
+
+### 🔹 **Treva Trends — E-commerce**
+- Stripe integration  
+- JWT Auth + Redux Toolkit  
+- Clean UI + Full-stack features  
+
+👉 *More on my GitHub profile!*  
 
 ---
 
 <h2 align="center">📊 GitHub Stats & LeetCode</h2>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=activity&border=0&radius=10&show_rank=true&show_follower=true" height="180" />
+  <!-- LeetCode Card with Contest Rating -->
+  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
   &nbsp;
-  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
 
+---
+
+<h2 align="center">🔥 GitHub Streak</h2> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> 
+</p>
 
 ---
 
-<h2 align="center">🔥 GitHub Streak Stats</h2> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> 
-</p> 
+<h2 align="center">🌟 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h2 align="center">🌀 Activity Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekshahi918&theme=react-dark&hide_title=true" />
+</p>
+
+---
+
+<h2 align="center">✨ Fun Badges</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build%20%26%20Automate-DevOps-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Clean%20Code-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-DSA-orange?style=for-the-badge" />
+</p>
+
+---
+
 
 
