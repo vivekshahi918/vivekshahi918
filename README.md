@@ -83,17 +83,6 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 ---
 
-# 🏆 Achievements   
-
-- 🥇 **Top global performer in LeetCode Biweekly Contest** — ranked in the top percentile among thousands  
-- 🛡️ Earned the **Knight Badge** on LeetCode for consistently high competitive coding performance  
-- 🥈 **National-level hackathon finalist** across multiple events for excellence in problem solving  
-- 📊 Recognized for strong reasoning and DSA performance in **multiple national contests**  
-- 🚀 Consistently perform in the **top 1%** in online coding battles  
-- 💡 Active competitive programmer passionate about data structures and performance engineering  
-
----
-
 <h3 align="center">🧠 Skill Matrix</h3>
 
 <h4>💻 Languages</h4>
