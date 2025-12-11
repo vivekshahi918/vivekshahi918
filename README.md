@@ -23,7 +23,7 @@
 
 ## 🔥 About Me  
 - Passionate about **cloud-native development**, backend engineering, and automation  
-- Skilled in **Java, SQL, TypeScript, NestJS, Kubernetes, Terraform, and AWS**  
+- Skilled in **Java, SQL, TypeScript, NestJS, Docker, Terraform, and AWS**  
 - I enjoy building systems that are **secure, fast, fault-tolerant, and easy to maintain**  
 - Strong in **DSA** with competitive contest performance (LeetCode Knight + top global rankings)  
 - Advocate of **clean code, robustness, and developer productivity**  
@@ -36,7 +36,6 @@
 ---
 
 # 🚀 Featured Projects  
-*(New descriptions — NOT copied from your resume exact lines)*  
 
 ---
 
@@ -82,8 +81,7 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 ---
 
-# 🏆 Achievements  
-*(Rewritten in fresh wording — not reused from resume)*  
+# 🏆 Achievements   
 
 - 🥇 **Top global performer in LeetCode Biweekly Contest** — ranked in the top percentile among thousands  
 - 🛡️ Earned the **Knight Badge** on LeetCode for consistently high competitive coding performance  
@@ -94,47 +92,58 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 ---
 
-# 🧰 Skill Matrix  
-*(Clean, structured, and recruiter-friendly)*
+<h3 align="center">🧠 Skill Matrix</h3>
 
-### 💻 **Languages**  
-Java • Python • SQL • JavaScript/TypeScript • C++ • Bash
+<h4>💻 Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,bash&perline=6" />
+</p>
 
-### 🧱 **Backend & Architecture**  
-NestJS • Express • Microservices • REST APIs • Distributed Systems • Cron Jobs • OAuth 2.0
+<h4>🧱 Backend & Architecture</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=6" />
+</p>
 
-### 🎨 **Frontend**  
-React • Next.js • TailwindCSS • Redux Toolkit
+<h4>🎨 Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=6" />
+</p>
 
-### 🛢 **Databases**  
-PostgreSQL • MySQL • MongoDB • Redis
+<h4>🛢 Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=6" />
+</p>
 
-### ☁️ **Cloud + DevOps Stack**  
-AWS (EC2, S3) • Docker • Kubernetes • Terraform  
-GitHub Actions • ArgoCD • Prometheus • Grafana • Helm • Vercel
+<h4>☁️ Cloud + DevOps</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,gitlab,helm&perline=6" />
+</p>
 
-### 🧪 **Quality & Testing**  
-JUnit • Selenium • TestNG • Postman • JMeter • Agile • Jira
+<h4>🧪 Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,figma&perline=6" />
+</p>
+
 
 ---
 
-# 📊 GitHub Stats & LeetCode
+<h2 align="center">📊 GitHub Stats & LeetCode</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> 
+<h2 align="center">🔥 GitHub Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" />
 </p>
 
 ---
 
-# 🌈 Top Languages
+<h2 align="center">🌈 Top Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
 </p>
