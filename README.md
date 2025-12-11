@@ -15,6 +15,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73A3A&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Cloud+%26+DevOps+Enthusiast;Distributed+Systems+%7C+Microservices;DSA+Competitive+Coder+%7C+LeetCode+Knight;I+Build+Scalable+%26+Production-Ready+Systems" />
 </p>
 
+<!-- 🔗 CONNECT WITH ME BADGES -->
+<p align="center">
+  <a href="mailto:shahivivek503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vivek-shahi-1803v918" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://vivek-portfolio-2022.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
@@ -28,9 +47,6 @@
 - Strong in **DSA** with competitive contest performance (LeetCode Knight + top global rankings)  
 - Advocate of **clean code, robustness, and developer productivity**  
 - Constantly exploring **system design, distributed systems, and event-driven architectures**  
-- 📧 Email → **shahivivek503@gmail.com**  
-- 🌐 Portfolio → https://vivek-portfolio-2022.vercel.app/  
-- 📄 Resume → https://drive.google.com/file/d/1wTNo38aY8YePnqa6RYmTZ2h_uGF_pRb1/view?usp=sharing  
 - ☁️ Fun fact: I can deploy faster than I can cook Maggie 😄  
 
 ---
@@ -49,8 +65,6 @@ A full-stack, security-focused email archiving & intelligence system that blends
 - Integrated **AI-driven attachment detection and thread summarization** to improve user productivity  
 - Optimized backend with **job scheduling, secure token flows, and metadata indexing**  
 
-🔗 Live • GitHub  
-
 ---
 
 ### 🛒 **Treva Trends — Modern Online Storefront with Admin Controls**  
@@ -63,8 +77,6 @@ A production-grade e-commerce platform designed with a strong emphasis on admin 
 - Strengthened system reliability by ensuring predictable state updates using **Redux Toolkit**  
 - Focused on usability, mobile responsiveness, and clean architectural separation  
 
-🔗 Live • GitHub  
-
 ---
 
 ### 💬 **Chatify App — Real-Time Communication on the Cloud**  
@@ -76,8 +88,6 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 - Automated infrastructure setup with **Helm-based releases**, enabling rapid updates and controlled rollouts  
 - Packaged the application for **zero-downtime deployments** backed by persistent MySQL storage  
 - Designed with operational reliability and observability as core principles  
-
-🔗 Live • GitHub  
 
 ---
 
@@ -124,7 +134,6 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
   <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,figma&perline=6" />
 </p>
 
-
 ---
 
 <h2 align="center">📊 GitHub Stats & LeetCode</h2>
@@ -163,4 +172,11 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
   <img src="https://img.shields.io/badge/Build%20%26%20Automate-DevOps-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Loves-Clean%20Code-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solver-DSA-orange?style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vivekshahi918/vivekshahi918/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
