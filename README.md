@@ -60,53 +60,18 @@
 
 <h2 align="center">📊 GitHub Stats & LeetCode</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light,unicorn" height="150" />
+  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=activity&border=0&radius=10&show_rank=true&show_follower=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
+
 
 ---
 
-<!-- <h2 align="center">🔥 GitHub Streak Stats</h2> -->
-<!-- <p align="center"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> -->
-<!-- </p> -->
-
-
-<h2 align="center">
-    🚀 MY MANTRA 🚀
-</h2>
-
-<p align="center">
-<pre >  
-················································
-:                                              :
-:     ____  ___   ____   _____                 :
-:    / ___|/ _ \ |  _ \ | ____|                :
-:   | |   | | | || | | ||  _|                  :
-:   | |___| |_| || |_| || |___                 :
-:    \____|\___/_|____/ |_____|                :
-:                                              :  
-················································
-                                          ················································
-                                          :                                              :
-                                          :   |  _ \ | ____||  _ \ | |    / _ \\ \ / /   :
-                                          :   | | | ||  _|  | |_) || |   | | | |\ V /    :
-                                          :   | |_| || |___ |  __/ | |___| |_| | | |     :
-                                          :   |____/ |_____||_| _  |_____|\___/__|_|     :
-                                          :                                              :
-                                          ················································
-                                                                                     ················································
-                                                                                     :                                              :
-                                                                                     :   / ___|  / ___|   / \   | |    | ____|      :
-                                                                                     :   \___ \ | |      / _ \  | |    |  _|        :
-                                                                                     :    ___) || |___  / ___ \ | |___ | |___       :
-                                                                                     :   |____/  \____|/_/   \_\|_____||_____|      :
-                                                                                     :                                              :
-                                                                                     ················································
-</pre>
-</p>
-
-
+<h2 align="center">🔥 GitHub Streak Stats</h2> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshahi918&theme=radical" /> 
+</p> 
 
 
