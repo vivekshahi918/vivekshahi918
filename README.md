@@ -1,10 +1,3 @@
-<h2 align="center">💡 Daily Inspiration</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm <strong>Vivek Shahi</strong>
 </h1>
