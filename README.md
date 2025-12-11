@@ -131,21 +131,21 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=light&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/?username=vivekshahi918&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
 </p>
 
 ---
 
 <h2 align="center">🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/streak-stats.php?user=vivekshahi918&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekshahi918&theme=radical" />
 </p>
 
 ---
 
 <h2 align="center">🌈 Top Languages</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekshahi918&layout=compact&theme=radical" />
 </p>
 
 ---
