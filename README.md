@@ -119,9 +119,9 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 <h2 align="center">📊 GitHub Stats & LeetCode</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=nord&ext=contest&animation=true&show_rank=true&border=0&radius=10" height="180" />
+<img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=radical&ext=contest&animation=true&show_rank=true" height="195" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekshahi918&show_icons=true&theme=radical" height="195" />
 </p>
 
 ---
