@@ -133,10 +133,10 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 ---
 
-# 📈 Activity Graph
-<p align="center">
+<!--📈 Activity Graph -->
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekshahi918&theme=react-dark&hide_title=true" />
-</p>
+</p> -->
 
 ---
 
