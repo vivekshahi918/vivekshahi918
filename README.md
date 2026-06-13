@@ -131,10 +131,10 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekshahi918&theme=radical" />
 </p>
 
-<!-- 📈 Activity Graph --> 
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekshahi918&theme=react-dark&hide_title=true" /> -->
-<!-- </p>  -->
+📈 Activity Graph  
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekshahi918&theme=react-dark&hide_title=true" />
+</p> 
 
 ---
 
