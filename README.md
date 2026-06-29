@@ -117,7 +117,7 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
 
 ---
 
-<h2 align="center">📊 GitHub Stats & LeetCode</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=radical&ext=contest&animation=true&show_rank=true" height="195" />
   &nbsp;&nbsp;
@@ -131,10 +131,12 @@ A lightweight but scalable chat application powered by cloud infrastructure and 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekshahi918&theme=radical" />
 </p>
 
-<!--📈 Activity Graph  
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekshahi918&theme=react-dark&hide_title=true" />
-</p> -->
+<h2 align="center">🏆 Competitive Programming</h2>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=radical&ext=contest&animation=true&show_rank=true" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vivek_Shahi&theme=radical" height="195" />
+</p>
 
 ---
 
