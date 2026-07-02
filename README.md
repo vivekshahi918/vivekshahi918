@@ -29,13 +29,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekshahi918&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
+
 ---
+
 <h2 align="center">🏆 Competitive Programming</h2>
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/vivekshahi1803?theme=radical&ext=contest&animation=true&show_rank=true" height="195" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vivek_Shahi&theme=radical" height="195" />
 </p>
+
 ---
 
 ## 🔥 About Me  
